@@ -1,1 +1,4 @@
-# omiya_workshop
+# Omiya workshop
+
+[Website](https://qc-hybrid.github.io/omiya_workshop)
+
