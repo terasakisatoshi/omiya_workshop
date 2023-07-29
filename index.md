@@ -7,3 +7,5 @@ title: Computational approaches to quantum many-body systems
 # Schedule
 
 # Invited speakers
+
+Anna Kauch (TU Wien)
