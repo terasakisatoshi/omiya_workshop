@@ -48,5 +48,3 @@ Tsuyoshi Okubo (Univ. Tokyo)
 This workshop is supported by 
 FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B)
 "Computational materials science based on quantum-classical hybrid algorithms"
-文部科学省科学研究費補助金 学術変革領域研究（Ｂ）令和５年度～令和７年度
-「量子古典融合アルゴリズムが拓く計算物質科学」
