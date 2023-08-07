@@ -35,8 +35,8 @@ Please register in the following link
 * Nobuyuki Yoshioka (Univ. Tokyo)
 * Taichi Kosugi (Quemix/Tokyo Tech.)
 * Shintaro Hoshino (Saitama Univ.)
-* Aaram Kim (Daegu Gyeongbuk Institute of Science & Technology)
-* Seung-Suo B. Lee (Seoul National Univ.)
+* Aaram J. Kim (DGIST)
+* Seung-Sup B. Lee (Seoul National Univ.)
 
 # Organizers
 
