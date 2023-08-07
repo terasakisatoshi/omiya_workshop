@@ -44,10 +44,6 @@ Please register in the following link
 * Ryosuke Akashi (QST)
 * Atsushi Hariki (Osaka Metropolitan Univ.)
 * Motoharu Kitatani (Univ. Hyogo)
-<!--
-* Kota Ido (Univ. Tokyo)
-* Tsuyoshi Okubo (Univ. Tokyo)
--->
 
 # Support
 This workshop is supported by 
