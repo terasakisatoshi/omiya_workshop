@@ -27,8 +27,7 @@ Free
 
 # Registration
 Deadlines:
-* August 30th (for presentation proposals)
-* September 15th (for onsite participation)
+* September 15th (for onsite participation and presentation proposals)
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfmq-k3ASmWzuBRwc6UbIJ0Qa3c4aj-hwgTfzT8MRFSK9gdTQ/viewform) 
 
