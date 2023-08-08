@@ -1,35 +1,36 @@
 ---
-title: Computational approaches to quantum many-body systems
+title: Computational Approaches to Quantum Many-Body Systems
 ---
 
 # About
+This workshop is focused on developing computational methods and applications for quantum many-body systems, providing opportunities for future collaborations. The topics will cover dynamical mean-field theory, tensor networks, quantum Monte Carlo methods, neural network approaches, quantum algorithms, etc.
 
 # Dates 
 October 19 - 20, 2023
 
 # Program
-To be announced. 
-The workshop will start at 9:00 on October 19 and be closed at 17:00 on October 20.
-A poster session will be held on 19th.
+Details to be announced. 
+The workshop will begin at 9:00 on October 19 and conclude at 17:00 on October 20.
+A poster session will be held on October 19th.
 
 # Venue
 [SONIC CITY HALL](https://www.sonic-city.or.jp/en.html)
-1-7-5, Sakuragi-cho, Omiya-ku, Saitama-shi, Saitama Japan
+1-7-5, Sakuragi-cho, Omiya-ku, Saitama-shi, Saitama, Japan
 
-[Access to the workshop place](https://www.sonic-city.or.jp/access.html)
+[Directions to the workshop venue](https://www.sonic-city.or.jp/access.html)
 
 # Accommodations
-Please make your own hotel reservations. There are many business hotels near Omiya station.
+Please arrange your own hotel accommodations. There are numerous business hotels located near Omiya station.
 
 # Registration fee
 Free
 
 # Registration
-Deadline:
-* August 30th (for presentation)
+Deadlines:
+* August 30th (for presentation proposals)
 * September 15th (for onsite participation)
 
-[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfmq-k3ASmWzuBRwc6UbIJ0Qa3c4aj-hwgTfzT8MRFSK9gdTQ/viewform) 
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfmq-k3ASmWzuBRwc6UbIJ0Qa3c4aj-hwgTfzT8MRFSK9gdTQ/viewform) 
 
 # Invited speakers
 
@@ -43,16 +44,16 @@ Deadline:
 * Aaram J. Kim (DGIST) (*)
 * Seung-Sup B. Lee (Seoul National Univ.) (*)
 
-\*: confirmed
+\*: Confirmed
 
 # Organizers
 
-* [Hiroshi Shinaoka](<shinaoka@mail.saitama-u.ac.jp>) (Saitama univ.)
+* [Hiroshi Shinaoka](<shinaoka@mail.saitama-u.ac.jp>) (Saitama Univ.)
 * Ryosuke Akashi (QST)
 * Atsushi Hariki (Osaka Metropolitan Univ.)
 * Motoharu Kitatani (Univ. Hyogo)
 
 # Support
-This workshop is supported by 
-FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B)
-"Computational materials science based on quantum-classical hybrid algorithms"
+Supported by 
+[FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B)
+"Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)
