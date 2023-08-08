@@ -29,7 +29,7 @@ Please register in the following link
 # Confirmed invited speakers
 
 * Tomoya Naito (RIKEN)
-* Anna Kauch (TU Wien)
+* Anna Kauch (Vienna Univ. of Techn.)
 * Junya Otsuki (Okayama Univ.)
 * Yusuke Nomura (Keio Univ.)
 * Nobuyuki Yoshioka (Univ. Tokyo)
