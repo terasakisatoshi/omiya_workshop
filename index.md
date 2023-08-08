@@ -4,7 +4,7 @@ title: Computational approaches to quantum many-body systems
 
 # About
 
-# Workshop Dates 
+# Dates 
 October 19 - 20, 2023
 
 # Program
@@ -46,7 +46,7 @@ Deadline:
 
 # Organizers
 
-* Hiroshi Shinaoka (Saitama univ.)
+* [Hiroshi Shinaoka](<shinaoka@mail.saitama-u.ac.jp>) (Saitama univ.)
 * Ryosuke Akashi (QST)
 * Atsushi Hariki (Osaka Metropolitan Univ.)
 * Motoharu Kitatani (Univ. Hyogo)
