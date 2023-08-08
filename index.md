@@ -23,8 +23,12 @@ Please make your own hotel reservations. There are many business hotels near Omi
 # Registration fee
 Free
 
-# Registration form (deadline: August) 
-Please register in the following link  
+# Registration
+Deadline:
+* August 30th (for presentation)
+* September 15th (for onsite participation)
+
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfmq-k3ASmWzuBRwc6UbIJ0Qa3c4aj-hwgTfzT8MRFSK9gdTQ/viewform) 
 
 # Invited speakers
 
