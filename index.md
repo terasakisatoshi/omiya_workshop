@@ -43,6 +43,7 @@ Deadlines:
 * Shintaro Hoshino (Saitama Univ.)
 * Aaram J. Kim (DGIST) (*)
 * Seung-Sup B. Lee (Seoul National Univ.) (*)
+* Gang Li (ShanghaiTech)
 
 \*: Confirmed
 
