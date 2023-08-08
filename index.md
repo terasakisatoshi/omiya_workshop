@@ -28,15 +28,15 @@ Please register in the following link
 
 # Invited speakers
 
-* Tomoya Naito (RIKEN)^*
-* Anna Kauch (Vienna Univ. of Techn.)^*
+* Tomoya Naito (RIKEN) (*)
+* Anna Kauch (Vienna Univ. of Techn.) (*)
 * Junya Otsuki (Okayama Univ.)
 * Yusuke Nomura (Keio Univ.)
-* Nobuyuki Yoshioka (Univ. Tokyo)^*
+* Nobuyuki Yoshioka (Univ. Tokyo) (*)
 * Taichi Kosugi (Quemix/Tokyo Tech.)
 * Shintaro Hoshino (Saitama Univ.)
-* Aaram J. Kim (DGIST)^*
-* Seung-Sup B. Lee (Seoul National Univ.)^*
+* Aaram J. Kim (DGIST) (*)
+* Seung-Sup B. Lee (Seoul National Univ.) (*)
 
 \*: confirmed
 
