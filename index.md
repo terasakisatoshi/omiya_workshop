@@ -17,10 +17,10 @@ A poster session will be held on October 19th.
 [SONIC CITY HALL](https://www.sonic-city.or.jp/en.html)
 1-7-5, Sakuragi-cho, Omiya-ku, Saitama-shi, Saitama, Japan
 
-[Directions to the workshop venue](https://www.sonic-city.or.jp/access.html)
+Directions to the workshop venue [Japanese](https://www.sonic-city.or.jp/access.html)/[English](https://www.sonic-city.or.jp/en.html)
 
 # Accommodations
-Please arrange your own hotel accommodations. There are numerous business hotels located near Omiya station.
+Please arrange your own hotel accommodations. There are numerous business hotels located near Omiya station, Urawa station, Saitama-Shintoshin station.
 
 # Registration fee
 Free
