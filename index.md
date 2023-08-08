@@ -26,7 +26,7 @@ Please arrange your own hotel accommodations. There are numerous business hotels
 Free
 
 # Registration
-Deadlines:
+Deadline:
 * September 15th (for onsite participation and presentation proposals)
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfmq-k3ASmWzuBRwc6UbIJ0Qa3c4aj-hwgTfzT8MRFSK9gdTQ/viewform) 
