@@ -13,9 +13,10 @@ The workshop will start at 9:00 on October 19 and be closed at 17:00 on October 
 A poster session will be held on 19th.
 
 # Venue
-SONIC CITY HALL (https://www.sonic-city.or.jp/en.html)
+[SONIC CITY HALL](https://www.sonic-city.or.jp/en.html)
 1-7-5, Sakuragi-cho, Omiya-ku, Saitama-shi, Saitama Japan
-Access to the workshop place (https://www.sonic-city.or.jp/access.html)
+
+[Access to the workshop place](https://www.sonic-city.or.jp/access.html)
 
 # Accommodations
 Please make your own hotel reservations. There are many business hotels near Omiya station.
