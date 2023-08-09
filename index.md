@@ -17,7 +17,7 @@ A poster session will be held on October 19th.
 [MEETING ROOMS 808 and 809, SONIC CITY](https://www.sonic-city.or.jp/en.html)
 
 * Address: 1-7-5, Sakuragi-cho, Omiya-ku, Saitama-shi, Saitama, Japan
-* Directions to the workshop venue [Japanese](https://www.sonic-city.or.jp/access.html)/[English](https://www.sonic-city.or.jp/en.html)
+* [Directions to the workshop venue](https://www.sonic-city.or.jp/en/conference.html)
 
 # Accommodations
 Please arrange your own hotel accommodations. There are numerous business hotels located near Omiya station, Urawa station, Saitama-Shintoshin station.
@@ -28,6 +28,10 @@ Free
 # Registration
 Deadline:
 * September 15th (for onsite participation and presentation proposals)
+* October 18th (for online participation)
+
+If the number of registrations for onsite participation exceeds the limit (around 30), a selection will be made.
+In this case, presenters (contributed & poster) will takes precedence.
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfmq-k3ASmWzuBRwc6UbIJ0Qa3c4aj-hwgTfzT8MRFSK9gdTQ/viewform) 
 
