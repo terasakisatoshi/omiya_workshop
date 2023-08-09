@@ -30,8 +30,7 @@ Deadline:
 * September 15th (for onsite participation and presentation proposals)
 * October 18th (for online participation)
 
-If the number of registrations for onsite participation exceeds the limit (around 30), a selection will be made.
-In this case, presenters (contributed & poster) will takes precedence.
+If the number of registrations for onsite participation exceeds the limit, a selection will be made. In this case, presenters (both contributed and poster) will take precedence.
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfmq-k3ASmWzuBRwc6UbIJ0Qa3c4aj-hwgTfzT8MRFSK9gdTQ/viewform) 
 
