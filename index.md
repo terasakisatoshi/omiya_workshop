@@ -1,5 +1,5 @@
 ---
-title: Computational Approaches to Quantum Many-Body Systems
+title: Computational Approaches to Quantum Many-Body Systems (October 19th and 20th, 2023)
 ---
 
 # About
@@ -20,7 +20,7 @@ A poster session will be held on October 19th.
 * [Directions to the workshop venue](https://www.sonic-city.or.jp/en/conference.html)
 
 # Accommodations
-Please arrange your own hotel accommodations. There are numerous business hotels located near Omiya station, Urawa station, Saitama-Shintoshin station.
+Please arrange your own hotel accommodations. There are numerous hotels located near Omiya station, Urawa station, Saitama-Shintoshin station.
 
 # Registration fee
 Free
