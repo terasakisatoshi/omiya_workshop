@@ -46,6 +46,7 @@ If the number of registrations for onsite participation exceeds the limit, a sel
 * Aaram J. Kim (DGIST) (*)
 * Seung-Sup B. Lee (Seoul National Univ.) (*)
 * Gang Li (ShanghaiTech)
+* ...
 
 \*: Confirmed
 
