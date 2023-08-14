@@ -1,5 +1,5 @@
 ---
-title: Computational Approaches to Quantum Many-Body Systems (October 19th and 20th, 2023)
+title: Computational Approaches to Quantum Many-Body Systems (Saitama, Japan/October 19th and 20th, 2023)
 ---
 
 # About
