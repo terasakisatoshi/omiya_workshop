@@ -39,14 +39,14 @@ If the number of registrations for onsite participation exceeds the limit, a sel
 * Tomoya Naito (RIKEN) (*)
 * Anna Kauch (Vienna Univ. of Techn.) (*)
 * Junya Otsuki (Okayama Univ.) (*)
-* Yusuke Nomura (Keio Univ.)
+* Yusuke Nomura (Keio Univ.) (*)
 * Nobuyuki Yoshioka (Univ. Tokyo) (*)
-* Taichi Kosugi (Quemix/Tokyo Tech.)
-* Shintaro Hoshino (Saitama Univ.)
+* Taichi Kosugi (Quemix/Tokyo Tech.) (*)
+* Shintaro Hoshino (Saitama Univ.) (*)
 * Aaram J. Kim (DGIST) (*)
 * Seung-Sup B. Lee (Seoul National Univ.) (*)
 * Gang Li (ShanghaiTech) (*)
-* Yoshi Kamiya ( Shanghai Jiao Tong University) (*)
+* Yoshi Kamiya (Shanghai Jiao Tong University) (*)
 * ...
 
 \*: Confirmed
