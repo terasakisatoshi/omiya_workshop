@@ -34,19 +34,19 @@ If the number of registrations for onsite participation exceeds the limit, a sel
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfmq-k3ASmWzuBRwc6UbIJ0Qa3c4aj-hwgTfzT8MRFSK9gdTQ/viewform) 
 
-# Invited speakers
-
-* Tomoya Naito (RIKEN) (*)
-* Anna Kauch (Vienna Univ. of Techn.) (*)
-* Junya Otsuki (Okayama Univ.) (*)
-* Yusuke Nomura (Keio Univ.) (*)
-* Nobuyuki Yoshioka (Univ. Tokyo) (*)
-* Taichi Kosugi (Quemix/Tokyo Tech.) (*)
+# Invited speakers (in alphabetical order)
+* Seung-Sup B. Lee (Seoul National Univ.) (*)
+* Karsten Held (Vienna Univ. of Techn.) (*)
 * Shintaro Hoshino (Saitama Univ.) (*)
 * Aaram J. Kim (DGIST) (*)
-* Seung-Sup B. Lee (Seoul National Univ.) (*)
-* Gang Li (ShanghaiTech) (*)
+* Anna Kauch (Vienna Univ. of Techn.) (*)
 * Yoshi Kamiya (Shanghai Jiao Tong University) (*)
+* Taichi Kosugi (Quemix/Tokyo Tech.) (*)
+* Gang Li (ShanghaiTech) (*)
+* Tomoya Naito (RIKEN) (*)
+* * Junya Otsuki (Okayama Univ.) (*)
+* Yusuke Nomura (Keio Univ.) (*)
+* Nobuyuki Yoshioka (Univ. Tokyo) (*)
 * ...
 
 \*: Confirmed
