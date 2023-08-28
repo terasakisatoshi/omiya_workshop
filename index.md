@@ -44,7 +44,7 @@ If the number of registrations for onsite participation exceeds the limit, a sel
 * Taichi Kosugi (Quemix/Tokyo Tech.) (*)
 * Gang Li (ShanghaiTech) (*)
 * Tomoya Naito (RIKEN) (*)
-* * Junya Otsuki (Okayama Univ.) (*)
+* Junya Otsuki (Okayama Univ.) (*)
 * Yusuke Nomura (Keio Univ.) (*)
 * Nobuyuki Yoshioka (Univ. Tokyo) (*)
 * ...
