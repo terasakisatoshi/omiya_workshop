@@ -46,6 +46,7 @@ If the number of registrations for onsite participation exceeds the limit, a sel
 * Tomoya Naito (RIKEN) (*)
 * Junya Otsuki (Okayama Univ.) (*)
 * Yusuke Nomura (Keio Univ.) (*)
+* Philipp Werner (Fribourg Univ.) (*)
 * Nobuyuki Yoshioka (Univ. Tokyo) (*)
 * ...
 
