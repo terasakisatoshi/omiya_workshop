@@ -9,9 +9,7 @@ This workshop is focused on developing computational methods and applications fo
 October 19 - 20, 2023
 
 # Program
-Details to be announced. 
-The workshop will begin at 9:00 on October 19 and conclude at 17:00 on October 20.
-A poster session will be held on October 19th.
+[PDF](/assets/program.pdf)
 
 # Venue
 [MEETING ROOMS 808 and 809, SONIC CITY](https://www.sonic-city.or.jp/en.html)
